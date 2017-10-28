@@ -1,0 +1,7 @@
+*.class
+
+*.exe
+
+*._oal
+
+temp/
